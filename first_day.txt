@@ -1,0 +1,1 @@
+I just installed git in my local computer , i generated SSH key, and added to my GitHub account , then created a new repository , cloned it to my directory which is /home/name , then i  moved it to Deskptop by mv filename Deskptop/ , then we went to Desktop dir then then to Linux-prep , we then created a new first_day txt file , then adding a content into it
