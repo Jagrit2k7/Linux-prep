@@ -1,9 +1,0 @@
-I just installed git in my local computer by :
-sudo apt install git 
-
-I generated SSH key, and added to my GitHub account , then created a new repository ,
-cloned it to my home directory which is /home/name , then i  moved it to Deskptop by mv filename Deskptop/ , then we went to Desktop dir then then to Linux-prep , 
-we then created a new first_day txt file , then adding a content in by echo/nano , then saying git so watch that file :
-git add first_day.txt
-then , git commit - m "First file (any message)"
-then push to github : git push
